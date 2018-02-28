@@ -1,0 +1,4 @@
+Pillow==5.0.0
+psutil==5.4.3
+pypiwin32==219
+SendKeys==0.3
